@@ -1,0 +1,124 @@
+body{
+	font-family:arial;
+	font-size:16px;
+}
+.logo-hd{
+	margin-top: -10px;
+}
+.sidebar{
+	width: 320px;
+	height: auto;
+	float: left;
+	margin-top: 70px;
+}
+.sidebar h4{
+	background: #fff;
+	color: blue;
+	text-align: center;
+	height: 40px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.clearfix{
+	clear: both;
+}
+.content{
+	width: auto;
+	margin-top: 70px;
+	clear: both;
+	background: #fff;
+}
+
+.title{
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	background: #337ab7;
+}
+.admin{
+	margin-top:150px; 
+}
+.login1{
+	margin: 0 auto;
+	width: 350px;
+	height: auto;
+}
+.login1 th{
+	background: blue;
+	color: #fff;
+}
+.alert{
+	width: 350px;
+	margin: 0 auto;
+
+}
+.alert a{
+	color: red;
+}
+.alert strong{
+	color: red;
+	
+}
+.alert1{
+	width: 650px;
+	margin-top: 50px;
+	text-align: center;
+	margin-left: 350px;
+}
+.alert1 a{
+	color: red;
+}
+.alert1 strong{
+	color: red;
+	
+}
+.personal {
+	margin-top: 15px;
+}
+.list{
+	margin-bottom: 10px;
+}
+#result{
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+.btn-edit{
+	margin-right: 10px;
+}
+.resulttk{
+	color: red;
+	font-weight: bold;
+}
+#footer{
+	background: #f6f6f6;
+	border-top: 4px solid red;
+	margin-top:20px;  
+}
+#footer .wrap_footer .title-footer{
+	color: red;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin:10px 0px; 
+}
+#footer .wrap_footer ul{
+	list-style-type: none;
+}
+#footer .wrap_footer ul li{
+	height: 30px;
+	line-height: 30px;
+}
+#footer .wrap_footer ul li a{
+	color: #111111;
+	text-decoration: none;
+}
+#footer .wrap_footer ul li a:hover{
+	color: red;
+}
+#footer .wrap_footer ul li i{
+	border-radius: 20px;
+	height: 35px;
+	background:#cccccc;
+	padding: 5px;
+	text-align: center;
+}

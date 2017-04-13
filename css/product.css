@@ -1,0 +1,43 @@
+#main .viewproduct .title{
+	color: red;
+}
+#main .viewproduct .start{
+	color: #ffb350;
+	font-size: 20px;
+}
+#main .viewproduct .pricess{
+	color: blue;
+	font-size: 20px;
+}
+#main .viewproduct .btn-buy{
+	background: #ffb350;
+	color: #fff;
+	border: 1px solid #ffb350;
+}
+#main .viewproduct .btn-buy i{
+	font-size: 20px;
+}
+#main .viewproduct .btn-cart{
+	background: #efefef;
+	color: #111111;
+	border: 1px solid #efefef;
+}
+#main .viewproduct .btn-cart i{
+	font-size: 20px;
+}
+#main .viewproduct .khuyenmai_muahang h2{
+	color: red;
+	font-size: 20px;
+}
+#main .viewproduct .khuyenmai_muahang i{
+	font-size: 40px;
+
+}
+#main .viewproduct .titleh2{
+	color: #01A9DB;
+	font-size: 25px;
+	border-bottom:1px solid blue;
+}
+#main .comment .colorcomment{
+	color: #fff;
+}
